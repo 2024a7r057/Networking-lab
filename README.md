@@ -40,6 +40,4 @@ Aim: Simulate common attack like DOS in NS2.
 
 Experiment 10
 
-Aim: Simulate & analyze the performance of Network Security protocol.
-
-Aim: Simulate & analyze the performance of Network Security protocol.
+Aim: Simulate & analyze the performance of Network Security protocol
